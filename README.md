@@ -3,7 +3,7 @@
 @version: 0.0.1-SNAPSHOT\
  \
 Framework: JAVA SPRING BOOT\
-Database: MySQL, Redis\
+Database: MySQL, Redis
 
 ### This is a demo api developed using Java Spring Boot(Java, Maven)
 @dependencies\
