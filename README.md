@@ -4,7 +4,7 @@
  \
 Framework: JAVA SPRING BOOT\
 Database: MySQL, Redis\
- \
+
 ### This is a demo api developed using Java Spring Boot(Java, Maven)
 @dependencies\
 - org.springframework.boot
